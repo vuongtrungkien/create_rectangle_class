@@ -23,7 +23,7 @@ class Rectangle
     }
 
     public function display () {
-        return "Rectangle { " . "width = " . $this->width. "height = " .$this->height."}";
+        return "Rectangle { " . " width = " . $this->width. " height = " .$this->height." }";
     }
 
 
